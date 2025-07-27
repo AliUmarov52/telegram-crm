@@ -1,0 +1,4 @@
+aiogram==3.0.0b7  # версия aiogram (можно указать без ==версия для последней)
+sqlalchemy>=2.0.0  # SQLAlchemy 2.x
+aiosqlite>=0.18.0 # асинхронный SQLite
+python-dotenv==1.0.0 # Для работы с .env файлом
